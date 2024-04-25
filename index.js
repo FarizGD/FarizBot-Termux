@@ -15,21 +15,21 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
-const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
+const BotName = 'FarizBot';
+const wa = 'no';
 const eror = 'Info fitur Error';
 const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
-const aktif = '08:00 - 22:00';
+const nomorowner = '08566340339';
+const ovo = '081266383203';
+const pulsa = '081266383203';
+const dana = '081266383203';
+const instagram = 'http://www.instagram.com/fariz.gd';
+const aktif = '00:01 - 23:59';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:FarizGD\n' // Nama kamu
+  + 'ORG:FarizBot;\n' // Nama bot
+  + 'TEL;type=CELL;type=VOICE;waid=628566340339:+62 856-6340-339\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
@@ -64,7 +64,7 @@ conn.on('qr', qr => {
     {
       small: true
     });
-  console.log(`[ ${moment().format("HH:mm:ss")} ] Arelbot Ready scan now!`);
+  console.log(`[ ${moment().format("HH:mm:ss")} ] FarizBot Ready scan now!`);
 });
 
 conn.on('credentials-updated', () => {
@@ -84,7 +84,7 @@ conn.on('message-status-update', json => {
 })
 setInterval(function () {
   for (i = 0; i < 3; i++) {
-    console.log(`[ ${moment().format("HH:mm:ss")} ] => HI! I'm lexa :)`)
+    console.log(`[ ${moment().format("HH:mm:ss")} ] => HI! I'm FarizBot :)`)
   }
 }, 15000)
 
