@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<a href="#"><img title="Arelbot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Modified Termux Bot by FarizGD" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
 <a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfzvx12/termux-whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
@@ -11,16 +11,11 @@
 </p>
 
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/102708092-ece61880-42d2-11eb-831b-f3909d67921e.jpg" width="320">
-    <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
+    <h3> Modified Version of Termux-WhatsApp-Bot by mrfzvx12 </h3>
 
  **Hai** 👋🏻
 
-**Termux whatsapp bot Update**
-
-Cobain juga nih
-
-[TERMUX WHATSAPP BOT V2](https://github.com/NazwaS/termux-whatsapp-bot)
+**Termux whatsapp bot Update?**
 
 Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
@@ -40,8 +35,7 @@ Re-upload numpang ganti nama gabakal bikin lu pro
 
 
 ### Sebelum install tes fitur dulu disini
-* [TES BOT](https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst)
-
+no feature?
 ## Alat
 
 Download aplikasi termux disini :
@@ -106,7 +100,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * Apikey tobz
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/FarizGD/FarizBot-Termux/blob/master/index.js/#L13)
 
 ## Settings di termux
 
@@ -182,6 +176,10 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | SIMSIMI |Yes|
 | ------------- | ------------- |
 | Simsimi |✅|
+
+| ANIME |In Development|
+| ------------- | ------------- |
+|
 
 | FUN |Yes|
 | ------------- | ------------- |
@@ -309,9 +307,7 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | Donasi|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
+* Test Bot [Arel Bot](https://wa.me/6281219700198)
 
 ## Partnership
 * [`NazwaS`](https://github.com/NazwaS/NazwaS)
